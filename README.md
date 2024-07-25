@@ -1,1 +1,1 @@
-# goatgithub.io
+# vertical_navgithub.io
